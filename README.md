@@ -1,4 +1,3 @@
-# hsh8904-destroy.github.io
 <!DOCTYPE html>
 <html lang="ko">
 <head>
